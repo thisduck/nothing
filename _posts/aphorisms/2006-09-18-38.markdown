@@ -1,0 +1,9 @@
+---
+layout: post
+title: 38
+date: 2006-09-18 00:00
+comments: false
+categories: [aphorisms]
+---
+
+Two steps ahead, but three floors below.

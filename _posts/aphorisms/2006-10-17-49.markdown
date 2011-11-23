@@ -1,0 +1,9 @@
+---
+layout: post
+title: 49
+date: 2006-10-17 22:47
+comments: false
+categories: [aphorisms]
+---
+
+You have the eyes of the beholder.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 52
+date: 2006-11-08 11:07
+comments: false
+categories: [aphorisms]
+---
+
+Curiosity killed a cat, I killed four.

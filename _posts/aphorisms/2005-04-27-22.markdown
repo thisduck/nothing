@@ -1,0 +1,9 @@
+---
+layout: post
+title: 22
+date: 2005-04-27 00:00
+comments: false
+categories: [aphorisms]
+---
+
+I promise not to be involved in any scandals (that don't involve money).

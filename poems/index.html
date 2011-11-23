@@ -1,0 +1,16 @@
+---
+layout: default
+title: Poems
+---
+<section class="slot-1-2-3 poems list">
+  <header>
+    <h1>Poems<h1>
+  </header>
+  {% for ps in site.categories.poems %}
+    <article>
+      <h1>
+        <a href="{{ ps.url }}">{{ ps.title }}</a>
+      </h1>
+    </article>
+  {% endfor %}
+</section>

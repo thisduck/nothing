@@ -1,0 +1,9 @@
+---
+layout: post
+title: 127
+date: 2008-12-14 05:05
+comments: false
+categories: [aphorisms]
+---
+
+A metaphor is like a simile.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 129
+date: 2009-03-01 21:00
+comments: false
+categories: [aphorisms]
+---
+
+I cannot tell the future, so I will let it tell me.

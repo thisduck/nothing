@@ -1,0 +1,9 @@
+---
+layout: post
+title: 169
+date: 2010-04-13 04:33
+comments: false
+categories: [aphorisms]
+---
+
+That's not long enough to be a short story.

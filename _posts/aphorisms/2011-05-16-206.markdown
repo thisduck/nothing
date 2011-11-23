@@ -1,0 +1,9 @@
+---
+layout: post
+title: 206
+date: 2011-05-16 21:34
+comments: false
+categories: [aphorisms]
+---
+
+What do you do when something is too good to be true and also true?

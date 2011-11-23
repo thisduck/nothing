@@ -1,0 +1,9 @@
+---
+layout: post
+title: 81
+date: 2008-02-15 15:55
+comments: false
+categories: [aphorisms]
+---
+
+I'm not selling myself short, I sell myself at cost.

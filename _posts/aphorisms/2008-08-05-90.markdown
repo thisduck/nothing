@@ -1,0 +1,9 @@
+---
+layout: post
+title: 90
+date: 2008-08-05 01:45
+comments: false
+categories: [aphorisms]
+---
+
+If you always go for the kitchen sink, you’ll find yourself stuck doing dishes.

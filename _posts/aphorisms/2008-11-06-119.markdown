@@ -1,0 +1,9 @@
+---
+layout: post
+title: 119
+date: 2008-11-06 04:11
+comments: false
+categories: [aphorisms]
+---
+
+The glass is fully empty.

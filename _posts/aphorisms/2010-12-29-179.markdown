@@ -1,0 +1,9 @@
+---
+layout: post
+title: 179
+date: 2010-12-29 17:10
+comments: false
+categories: [aphorisms]
+---
+
+I could care less. And I will.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 185
+date: 2011-01-06 14:33
+comments: false
+categories: [aphorisms]
+---
+
+A wedding invitation is an invitation to a wedding, not an invitation to be wed.

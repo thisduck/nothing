@@ -1,0 +1,9 @@
+---
+layout: post
+title: 105
+date: 2008-08-22 01:11
+comments: false
+categories: [aphorisms]
+---
+
+I like to start each day by waking up.

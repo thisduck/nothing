@@ -1,0 +1,9 @@
+---
+layout: post
+title: 35
+date: 2006-09-06 00:00
+comments: false
+categories: [aphorisms]
+---
+
+I'm not one to take a situation into my own hands, unless it falls into my lap.

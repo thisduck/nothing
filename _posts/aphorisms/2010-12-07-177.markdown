@@ -1,0 +1,9 @@
+---
+layout: post
+title: 177
+date: 2010-12-07 22:15
+comments: false
+categories: [aphorisms]
+---
+
+My will power has a will of its own.

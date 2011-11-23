@@ -1,0 +1,9 @@
+---
+layout: post
+title: 21
+date: 2005-04-10 00:00
+comments: false
+categories: [aphorisms]
+---
+
+The only people who search for your name on google, is you or someone with the same name.

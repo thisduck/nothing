@@ -1,0 +1,12 @@
+---
+layout: post
+title: a page
+date: 2008-03-14 07:23
+comments: false
+categories: [poems]
+---
+
+all the world's a page
+and all the players writers
+all the world's a rage
+and all the poets fighters 

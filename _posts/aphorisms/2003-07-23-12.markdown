@@ -1,0 +1,9 @@
+---
+layout: post
+title: 12
+date: 2003-07-23 00:00
+comments: false
+categories: [aphorisms]
+---
+
+When there's nothing to do, anything can be done. but sometimes somethings must be done, and at those times nothing gets done.

@@ -1,0 +1,16 @@
+---
+layout: default
+title: Shorts
+---
+<section class="slot-1-2-3 shorts list">
+  <header>
+    <h1>Shorts<h1>
+  </header>
+  {% for ps in site.categories.shorts %}
+    <article>
+      <h1>
+        <a href="{{ ps.url }}">{{ ps.title }}</a>
+      </h1>
+    </article>
+  {% endfor %}
+</section>

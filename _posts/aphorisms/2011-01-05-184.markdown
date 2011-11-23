@@ -1,0 +1,9 @@
+---
+layout: post
+title: 184
+date: 2011-01-05 04:25
+comments: false
+categories: [aphorisms]
+---
+
+The wolf doesn't care if you cry wolf in the wolf's part of town.

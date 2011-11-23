@@ -1,0 +1,9 @@
+---
+layout: post
+title: 132
+date: 2009-04-07 03:26
+comments: false
+categories: [aphorisms]
+---
+
+Life's life that.

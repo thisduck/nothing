@@ -1,0 +1,9 @@
+---
+layout: post
+title: 37
+date: 2006-09-15 00:01
+comments: false
+categories: [aphorisms]
+---
+
+What up's?

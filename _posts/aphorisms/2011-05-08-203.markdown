@@ -1,0 +1,9 @@
+---
+layout: post
+title: 203
+date: 2011-05-08 04:43
+comments: false
+categories: [aphorisms]
+---
+
+Opinions without pi are onions.

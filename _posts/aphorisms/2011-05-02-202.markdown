@@ -1,0 +1,9 @@
+---
+layout: post
+title: 202
+date: 2011-05-02 22:34
+comments: false
+categories: [aphorisms]
+---
+
+More than fair is unfair.

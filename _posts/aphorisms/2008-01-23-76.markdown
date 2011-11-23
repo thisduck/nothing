@@ -1,0 +1,9 @@
+---
+layout: post
+title: 76
+date: 2008-01-23 03:06
+comments: false
+categories: [aphorisms]
+---
+
+I'm continually in a mid-life crisis, because you never know when it will end.

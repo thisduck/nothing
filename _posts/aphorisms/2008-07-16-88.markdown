@@ -1,0 +1,9 @@
+---
+layout: post
+title: 88
+date: 2008-07-16 14:35
+comments: false
+categories: [aphorisms]
+---
+
+Repetition is annoying. I think I've already stated that.

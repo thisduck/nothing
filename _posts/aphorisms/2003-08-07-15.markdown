@@ -1,0 +1,9 @@
+---
+layout: post
+title: 15
+date: 2003-08-07 00:00
+comments: false
+categories: [aphorisms]
+---
+
+Are you still guilty if you feel no guilt?

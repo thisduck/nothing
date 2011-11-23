@@ -1,0 +1,9 @@
+---
+layout: post
+title: 136
+date: 2009-06-04 14:51
+comments: false
+categories: [aphorisms]
+---
+
+Your reputation precedes you, and with any luck, you will depart before it does.

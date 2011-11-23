@@ -1,0 +1,9 @@
+---
+layout: post
+title: 23
+date: 2005-06-10 02:42
+comments: false
+categories: [aphorisms]
+---
+
+I don't know what you're thinking and why you'd think otherwise.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 79
+date: 2008-02-05 05:27
+comments: false
+categories: [aphorisms]
+---
+
+Late nights make mornings difficult.

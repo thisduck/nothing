@@ -1,0 +1,9 @@
+---
+layout: post
+title: 130
+date: 2009-03-02 06:39
+comments: false
+categories: [aphorisms]
+---
+
+It can't not work because it does primarily nothing.

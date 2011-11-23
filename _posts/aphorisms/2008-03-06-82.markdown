@@ -1,0 +1,9 @@
+---
+layout: post
+title: 82
+date: 2008-03-06 21:08
+comments: false
+categories: [aphorisms]
+---
+
+Some sentences end long before the full stop, I hope you get to the end of this one.

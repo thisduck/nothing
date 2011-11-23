@@ -1,0 +1,9 @@
+---
+layout: post
+title: 42
+date: 2006-09-22 00:00
+comments: false
+categories: [aphorisms]
+---
+
+I need to think of nothing, nothing doesn't worry me like everything else.

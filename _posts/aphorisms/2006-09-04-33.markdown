@@ -1,0 +1,9 @@
+---
+layout: post
+title: 33
+date: 2006-09-04 00:00
+comments: false
+categories: [aphorisms]
+---
+
+It's not the size of the dog in the fight or the size of the fight in the dog, it's the dog that lives to see another fight.

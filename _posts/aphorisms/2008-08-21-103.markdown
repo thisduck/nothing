@@ -1,0 +1,9 @@
+---
+layout: post
+title: 103
+date: 2008-08-21 01:26
+comments: false
+categories: [aphorisms]
+---
+
+What I like about it most is pointing out what I don't like about it most.

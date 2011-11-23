@@ -1,0 +1,9 @@
+---
+layout: post
+title: 62
+date: 2007-03-03 23:11
+comments: false
+categories: [aphorisms]
+---
+
+I feel sorry **for you**, I wasn't apologizing.

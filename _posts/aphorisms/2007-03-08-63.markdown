@@ -1,0 +1,9 @@
+---
+layout: post
+title: 63
+date: 2007-03-08 20:10
+comments: false
+categories: [aphorisms]
+---
+
+I can read you like a facebook.

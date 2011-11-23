@@ -1,0 +1,9 @@
+---
+layout: post
+title: 199
+date: 2011-04-14 18:41
+comments: false
+categories: [aphorisms]
+---
+
+A lot of what they teach in business school is bullshit, turns out that bullshit is actually very useful in the business world.

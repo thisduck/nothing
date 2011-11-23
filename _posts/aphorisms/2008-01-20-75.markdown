@@ -1,0 +1,9 @@
+---
+layout: post
+title: 75
+date: 2008-01-20 18:48
+comments: false
+categories: [aphorisms]
+---
+
+Brevity *is* the soul.

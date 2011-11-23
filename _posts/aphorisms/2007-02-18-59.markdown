@@ -1,0 +1,9 @@
+---
+layout: post
+title: 59
+date: 2007-02-18 03:46
+comments: false
+categories: [aphorisms]
+---
+
+You strike me as a person...

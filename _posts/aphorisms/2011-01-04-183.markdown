@@ -1,0 +1,9 @@
+---
+layout: post
+title: 183
+date: 2011-01-04 18:45
+comments: false
+categories: [aphorisms]
+---
+
+You should think twice before you think twice.

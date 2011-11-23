@@ -1,0 +1,9 @@
+---
+layout: post
+title: 189
+date: 2011-01-13 02:17
+comments: false
+categories: [aphorisms]
+---
+
+I was playing the world's smallest violin, and it broke.

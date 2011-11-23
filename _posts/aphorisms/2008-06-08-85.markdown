@@ -1,0 +1,9 @@
+---
+layout: post
+title: 85
+date: 2008-06-08 06:47
+comments: false
+categories: [aphorisms]
+---
+
+That's a vicious cycle, we should just buy a car.

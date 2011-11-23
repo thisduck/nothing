@@ -1,0 +1,9 @@
+---
+layout: post
+title: 159
+date: 2010-03-25 19:34
+comments: false
+categories: [aphorisms]
+---
+
+I don't disagree just to disagree; I disagree when I am in disagreement.

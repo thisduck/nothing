@@ -1,0 +1,9 @@
+---
+layout: post
+title: 64
+date: 2007-03-12 23:02
+comments: false
+categories: [aphorisms]
+---
+
+If I had money to throw away, I'd keep it.

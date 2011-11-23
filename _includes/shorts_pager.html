@@ -1,0 +1,29 @@
+{% for post in site.categories.shorts %}
+{% if post.url == page.url %}
+{% assign post_index0 = forloop.index0 %}
+{% assign post_index1 = forloop.index %}
+{% endif %}
+{% endfor %}
+{% for post in site.categories.shorts %}
+{% if post_index0 == forloop.index %}
+{% assign next_post = post %}
+{% endif %}
+{% if post_index1 == forloop.index0 %}
+{% assign prev_post = post .%}
+{% endif %}
+{% endfor %}
+
+<div class="slot-0-1-2-3-4-5 prev_next post_nav">
+    {% if prev_post %}
+    <p class="previous">
+        «&nbsp;<a href="{{ prev_post.url }}" rel="previous" title="{{ prev_post.title }}">{{ prev_post.title | truncatewords: 15 }}</a>
+    </p>
+    {% endif %}
+
+    {% if next_post %}
+    <p class="next">
+        <a href="{{ next_post.url }}" rel="next" title="{{ next_post.title }}">{{ next_post.title | truncatewords: 15 }}</a>&nbsp;»
+    </p>
+    {% endif %}
+</div>
+

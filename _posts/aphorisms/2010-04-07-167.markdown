@@ -1,0 +1,9 @@
+---
+layout: post
+title: 167
+date: 2010-04-07 02:35
+comments: false
+categories: [aphorisms]
+---
+
+Your intellectual property is stupid.

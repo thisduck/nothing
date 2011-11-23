@@ -1,0 +1,9 @@
+---
+layout: post
+title: 47
+date: 2006-10-12 08:11
+comments: false
+categories: [aphorisms]
+---
+
+I'll do it for as long as I no longer want to.

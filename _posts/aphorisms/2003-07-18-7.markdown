@@ -1,0 +1,9 @@
+---
+layout: post
+title: 7
+date: 2003-07-18 00:00
+comments: false
+categories: [aphorisms]
+---
+
+What goes up will stay up, unless it comes down.

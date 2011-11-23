@@ -1,0 +1,9 @@
+---
+layout: post
+title: 191
+date: 2011-01-15 17:12
+comments: false
+categories: [aphorisms]
+---
+
+Humans fish for sheep.

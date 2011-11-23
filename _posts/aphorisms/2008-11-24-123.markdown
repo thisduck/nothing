@@ -1,0 +1,9 @@
+---
+layout: post
+title: 123
+date: 2008-11-24 20:20
+comments: false
+categories: [aphorisms]
+---
+
+If you had nothing, what would you need?

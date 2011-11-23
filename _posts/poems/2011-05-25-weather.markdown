@@ -1,0 +1,13 @@
+---
+layout: post
+title: weather
+date: 2011-05-25 21:53
+comments: false
+categories: [poems]
+---
+
+my eyes survey others to see
+whether i'm dressed weather appropriately.
+
+for i never check the weather report,
+i always dress for the day before.

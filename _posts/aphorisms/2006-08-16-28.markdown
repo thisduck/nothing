@@ -1,0 +1,9 @@
+---
+layout: post
+title: 28
+date: 2006-08-16 00:00
+comments: false
+categories: [aphorisms]
+---
+
+There's two types of people here, those who're smart, and those who think they're smart. what do you think you are?

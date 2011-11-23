@@ -1,0 +1,9 @@
+---
+layout: post
+title: 162
+date: 2010-03-28 01:36
+comments: false
+categories: [aphorisms]
+---
+
+Even time might not tell.

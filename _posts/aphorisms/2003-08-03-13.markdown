@@ -1,0 +1,9 @@
+---
+layout: post
+title: 13
+date: 2003-08-03 00:00
+comments: false
+categories: [aphorisms]
+---
+
+What doesn't kill me will only leave me severely hospitalized.

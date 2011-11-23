@@ -1,0 +1,9 @@
+---
+layout: post
+title: 140
+date: 2010-02-13 16:17
+comments: false
+categories: [aphorisms]
+---
+
+People have small imaginations, the world is pretty big.

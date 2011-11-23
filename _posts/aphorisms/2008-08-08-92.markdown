@@ -1,0 +1,9 @@
+---
+layout: post
+title: 92
+date: 2008-08-08 11:14
+comments: false
+categories: [aphorisms]
+---
+
+When I grow up, I want to be younger.

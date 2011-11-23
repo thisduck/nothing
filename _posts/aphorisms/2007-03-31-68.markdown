@@ -1,0 +1,9 @@
+---
+layout: post
+title: 68
+date: 2007-03-31 22:05
+comments: false
+categories: [aphorisms]
+---
+
+We all need to get into a room, and miscommunicate.

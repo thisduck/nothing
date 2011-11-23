@@ -1,0 +1,9 @@
+---
+layout: post
+title: 43
+date: 2006-09-22 00:00
+comments: false
+categories: [aphorisms]
+---
+
+Love, and be loved? or live, and let live?

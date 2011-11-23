@@ -1,0 +1,9 @@
+---
+layout: post
+title: 193
+date: 2011-01-20 03:30
+comments: false
+categories: [aphorisms]
+---
+
+Life seems like a likely story.

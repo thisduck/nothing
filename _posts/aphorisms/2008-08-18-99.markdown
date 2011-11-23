@@ -1,0 +1,9 @@
+---
+layout: post
+title: 99
+date: 2008-08-18 01:42
+comments: false
+categories: [aphorisms]
+---
+
+I *wish* objects in that mirror were closer than they appear to be.

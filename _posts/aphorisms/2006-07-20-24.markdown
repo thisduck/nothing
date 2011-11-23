@@ -1,0 +1,9 @@
+---
+layout: post
+title: 24
+date: 2006-07-20 00:00
+comments: false
+categories: [aphorisms]
+---
+
+Laziness is the key to avoiding bad habits.

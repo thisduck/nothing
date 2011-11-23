@@ -1,0 +1,11 @@
+---
+layout: post
+title: met
+date: 2011-02-15 04:22
+comments: false
+categories: [poems]
+---
+
+I don't think *we* have met.
+And even if we *have* met,
+I don't think we have *met*.

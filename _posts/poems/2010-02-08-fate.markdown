@@ -1,0 +1,11 @@
+---
+layout: post
+title: fate
+date: 2010-02-08 15:15
+comments: false
+categories: [poems]
+---
+
+if you read this,
+you have read it.
+that will never change.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: focus
+date: 2009-05-15 03:32
+comments: false
+categories: [poems]
+---
+
+focus is like a
+body of water fighting
+evaporation.

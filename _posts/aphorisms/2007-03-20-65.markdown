@@ -1,0 +1,9 @@
+---
+layout: post
+title: 65
+date: 2007-03-20 22:45
+comments: false
+categories: [aphorisms]
+---
+
+I can lie with a straight face or with my own face.

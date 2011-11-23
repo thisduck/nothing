@@ -1,0 +1,9 @@
+---
+layout: post
+title: 200
+date: 2011-04-28 18:28
+comments: false
+categories: [aphorisms]
+---
+
+Everybody seems to know what nobody wants.

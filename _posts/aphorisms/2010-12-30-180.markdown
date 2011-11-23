@@ -1,0 +1,9 @@
+---
+layout: post
+title: 180
+date: 2010-12-30 18:56
+comments: false
+categories: [aphorisms]
+---
+
+There ought to be a mirror for every mask in the world.

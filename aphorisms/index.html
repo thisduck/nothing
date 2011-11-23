@@ -1,0 +1,17 @@
+---
+layout: default
+title: Aphorisms and such
+---
+<section class="slot-1-2-3 aphorisms list">
+  <header>
+    <h1>Aphorisms and such<h1>
+  </header>
+  {% for ps in site.categories.aphorisms %}
+    <article>
+    <div class="content">
+      {{ ps.content }}
+    </div>
+    <hr />
+    </article>
+  {% endfor %}
+</section>

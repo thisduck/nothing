@@ -1,0 +1,9 @@
+---
+layout: post
+title: 176
+date: 2010-09-18 00:35
+comments: false
+categories: [aphorisms]
+---
+
+You can be loud without being sound.

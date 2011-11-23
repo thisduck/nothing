@@ -1,0 +1,9 @@
+---
+layout: post
+title: 139
+date: 2010-02-12 05:34
+comments: false
+categories: [aphorisms]
+---
+
+I once made a decision, but then I undecided.

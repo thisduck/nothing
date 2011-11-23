@@ -1,0 +1,9 @@
+---
+layout: post
+title: 153
+date: 2010-03-18 05:02
+comments: false
+categories: [aphorisms]
+---
+
+Ideas are a dime a dozen and I'm out of dimes.

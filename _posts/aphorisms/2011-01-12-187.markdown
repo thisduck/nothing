@@ -1,0 +1,9 @@
+---
+layout: post
+title: 187
+date: 2011-01-12 02:10
+comments: false
+categories: [aphorisms]
+---
+
+I can't hear everyone all at once, or even twice.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: 100
+date: 2008-08-18 05:07
+comments: false
+categories: [aphorisms]
+---
+
+Make it cut-and-dry, more cut and less dry.

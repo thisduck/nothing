@@ -1,0 +1,9 @@
+---
+layout: post
+title: 190
+date: 2011-01-13 02:17
+comments: false
+categories: [aphorisms]
+---
+
+Am I on a roll or is the roll on me?

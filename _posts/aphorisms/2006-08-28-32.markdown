@@ -1,0 +1,9 @@
+---
+layout: post
+title: 32
+date: 2006-08-28 00:00
+comments: false
+categories: [aphorisms]
+---
+
+A picture is worth a mini-essay.

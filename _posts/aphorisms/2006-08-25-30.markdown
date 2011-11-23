@@ -1,0 +1,9 @@
+---
+layout: post
+title: 30
+date: 2006-08-25 00:00
+comments: false
+categories: [aphorisms]
+---
+
+You're getting to know me, you won't like me when you know me.

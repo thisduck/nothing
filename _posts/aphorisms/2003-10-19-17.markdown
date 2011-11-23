@@ -1,0 +1,9 @@
+---
+layout: post
+title: 17
+date: 2003-10-19 19:45
+comments: false
+categories: [aphorisms]
+---
+
+You'll be delighted to meet me, I know I was.

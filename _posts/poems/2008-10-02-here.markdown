@@ -1,0 +1,13 @@
+---
+layout: post
+title: here
+date: 2008-10-02 11:48
+comments: false
+categories: [poems]
+---
+
+i am here
+because i am lost.
+but i know
+that i will not
+find myself here.

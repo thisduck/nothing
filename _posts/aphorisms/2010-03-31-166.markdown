@@ -1,0 +1,9 @@
+---
+layout: post
+title: 166
+date: 2010-03-31 22:00
+comments: false
+categories: [aphorisms]
+---
+
+So, how many wrongs *do* make a right?

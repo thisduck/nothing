@@ -1,0 +1,9 @@
+---
+layout: post
+title: 36
+date: 2006-09-15 00:00
+comments: false
+categories: [aphorisms]
+---
+
+I'm not a good morning person, at least not in the mornings.

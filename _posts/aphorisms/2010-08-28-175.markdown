@@ -1,0 +1,10 @@
+---
+layout: post
+title: 175
+date: 2010-08-28 09:04
+comments: false
+categories: [aphorisms]
+---
+
+History does not repeat itself, history is repeated.
+

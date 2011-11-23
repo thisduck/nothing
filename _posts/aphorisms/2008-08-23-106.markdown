@@ -1,0 +1,9 @@
+---
+layout: post
+title: 106
+date: 2008-08-23 02:44
+comments: false
+categories: [aphorisms]
+---
+
+It's always one o'clock around this time of the day.

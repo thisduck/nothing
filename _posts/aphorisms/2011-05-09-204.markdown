@@ -1,0 +1,9 @@
+---
+layout: post
+title: 204
+date: 2011-05-09 02:06
+comments: false
+categories: [aphorisms]
+---
+
+Where is there nothing rather than something?

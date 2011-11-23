@@ -1,0 +1,9 @@
+---
+layout: post
+title: 83
+date: 2008-04-16 04:36
+comments: false
+categories: [aphorisms]
+---
+
+In a circle, all ends are connected.

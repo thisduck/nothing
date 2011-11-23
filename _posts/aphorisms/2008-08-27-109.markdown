@@ -1,0 +1,9 @@
+---
+layout: post
+title: 109
+date: 2008-08-27 16:08
+comments: false
+categories: [aphorisms]
+---
+
+It is surprising, if you are listening, with how much clarity it can be done.

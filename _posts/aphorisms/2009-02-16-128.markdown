@@ -1,0 +1,9 @@
+---
+layout: post
+title: 128
+date: 2009-02-16 17:38
+comments: false
+categories: [aphorisms]
+---
+
+I have tried a lot of things and I find that I like wandering around and doing nothing better.

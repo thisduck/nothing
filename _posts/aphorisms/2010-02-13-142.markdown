@@ -1,0 +1,9 @@
+---
+layout: post
+title: 142
+date: 2010-02-13 16:18
+comments: false
+categories: [aphorisms]
+---
+
+Well, I'll be damned! And so will you.

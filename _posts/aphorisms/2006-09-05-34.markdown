@@ -1,0 +1,9 @@
+---
+layout: post
+title: 34
+date: 2006-09-05 00:00
+comments: false
+categories: [aphorisms]
+---
+
+Awfully incredible or incredibly awful?

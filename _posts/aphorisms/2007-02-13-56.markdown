@@ -1,0 +1,9 @@
+---
+layout: post
+title: 56
+date: 2007-02-13 11:35
+comments: false
+categories: [aphorisms]
+---
+
+There's nothing awkward about silence.

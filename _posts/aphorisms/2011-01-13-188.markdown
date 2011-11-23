@@ -1,0 +1,9 @@
+---
+layout: post
+title: 188
+date: 2011-01-13 01:51
+comments: false
+categories: [aphorisms]
+---
+
+There are no spaces between spoken words.
