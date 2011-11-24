@@ -15,8 +15,10 @@ with {margin: 0px auto;}
 and i would put around them
 a blue dashed border with a width of one
 though if all my words were in a &lt;div&gt;
-i would style them with <span class="hideme"><a href="http://www.jaaduhai.com/blog/2008/11/21/all-our-words/">{display: none;}</a></span>
+i would style them with <span class="hideme"><a href="#">{display: none;}</a></span>
 
 <script>
-$(".hideme").hover(function() {$("div").hide()})
+$(function() {
+    $(".hideme").hover(function() {$("body").hide()})
+});
 </script>
