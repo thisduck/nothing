@@ -7,7 +7,7 @@ categories: [poems]
 ---
 
 there will be a moment
-when I will have lost
+when i will have lost
 every fibre of my being
 
 all my memories gone
@@ -18,4 +18,4 @@ all the places
 my every moment gone
 
 and in that moment
-I will miss you
+i will miss you
