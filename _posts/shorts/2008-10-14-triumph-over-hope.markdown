@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "triumph over hope"
+title2: "in collaboration with nadia khan"
 date: 2008-10-14 12:13
 comments: false
 categories: [shorts]

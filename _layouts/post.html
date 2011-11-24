@@ -5,6 +5,9 @@ layout: default
 <article class="slot-1-2-3 post">
   <header>
     <h2>{{ page.title }}</h2>
+    {% if page.title2 %}
+    <h3>{{ page.title2 }}</h3>
+    {% endif %}
   </header>
   <div id="post">
   {{ content }}
