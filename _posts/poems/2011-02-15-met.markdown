@@ -6,6 +6,6 @@ comments: false
 categories: [poems]
 ---
 
-I don't think *we* have met.
-And even if we *have* met,
-I don't think we have *met*.
+i don't think *we* have met.
+and even if we *have* met,
+i don't think we have *met*.
