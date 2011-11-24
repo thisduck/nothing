@@ -276,9 +276,9 @@ For a moment Harry considers giving up his seat to someone else, but he doesn't.
 
 Harry reaches for his phone, one of his palms still supporting his forehead.
 
-"You've reached Sam, and if you're calling you probably know who I am", says the recording, "Wait for the beep and leave a message, your odds might be better if you call again."
+"You've reached Sam, and if you're calling you probably know who I am," says the recording, "Wait for the beep and leave a message, your odds might be better if you call again."
 
-"Hey, uh... it's me. I know I said a few things today and I umm... I just wanted to...", Harry pauses to take a deep breath and that very moment a giant, out of control construction truck collides with the street car in the spot where Harry was sitting.
+"Hey, uh... it's me. I know I said a few things today and I umm... I just wanted to..." Harry pauses to take a deep breath and that very moment a giant, out of control construction truck collides with the street car in the spot where Harry was sitting.
 
 Harry did not know what hit him.
 

@@ -82,7 +82,7 @@ Saad went on to finish the exam with hints from the drop blood from time to time
 
 "I hope I never have to see you again," whispered Saad.
 
-"Excuse me? If you're taking thermodynamics next semester, you will see me.", said the TA, slightly disturbed.
+"Excuse me? If you're taking thermodynamics next semester, you will see me," said the TA, slightly disturbed.
 
 On the way back home all the students were discussing their answers and planning for the next exam. 
 
