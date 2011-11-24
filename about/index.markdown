@@ -11,6 +11,8 @@ This site is a collection of things I've written (sometimes in collaboration wit
 
 I've selected certain writings from my blog to feature here. I hope what you find here resonates with you in some way.
 
+This site was made through hours and hours of indecision.
+
 ### about
 
 I do not believe in magic but I do believe in a pure state of astonishment, one that cannot only be witnessed by jaw drops, gasps, claps or silences, but one that I witness in your eyes. I believe in making people laugh and I believe in letting people cry. I believe that sushi and green tea are great any time of the day. I believe in fostering creativity, innovation and collaboration, but I don't believe in schedules. I believe in using things beyond what they were meant for. I believe in calling out bullshit, because life is too short for bullshit. I believe in being called out when I bullshit. I believe in failing and I believe in second and third chances.
@@ -31,6 +33,7 @@ A number of technologies went into the making of this site:
   formatting
 - [Jekll](http://jekyllrb.com) to generate the HTML
 - [Google's Web Fonts](http://google.com/webfonts)
+- Vim, git, jQuery and the other usual suspects
 
 I didn't test the site in Internet Explorer and do not care to do so.
 
