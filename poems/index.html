@@ -6,7 +6,7 @@ title: Poems
   <header>
     <h1>Poems<h1>
   </header>
-  {% for ps in site.categories.poems %}
+  {% for ps in site.categories.poems reverse %}
     <article>
       <h1>
         <a href="{{ ps.url }}">{{ ps.title }}</a>
